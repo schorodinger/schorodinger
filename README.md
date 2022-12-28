@@ -17,12 +17,12 @@
 
 ### :man_technologist: &nbsp;Sobre me :
 
-Cientista de dados e desenvolvidor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Cientista de dados e desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 🔭 Trabalho em analise de dados.
+- 🌱 Explorando a escrita de conteúdo técnico.
+- ⚡ No meu tempo livre, resolvo desafios do kaggle e leio artigos de tecnologia.
+- 📫 Contato: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-alves-45519914b/)
 
 ---
 
