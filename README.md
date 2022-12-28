@@ -20,7 +20,7 @@
 Cientista de dados e desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 Trabalho em analise de dados.
-- 🌱 Explorando a escrita de conteúdo técnico.
+- 🌱 Formado em Física computacional pela UFF.
 - ⚡ No meu tempo livre, resolvo desafios do kaggle e leio artigos de tecnologia.
 - 📫 Contato: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eliel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-alves-45519914b/)
 
