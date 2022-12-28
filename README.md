@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="1000"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/eliel-alves-45519914b/">
@@ -7,10 +7,12 @@
   </a> 
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=schorodinger&style=flat-square&color=blue" alt=""/></p>
-<h1>
-  Olá
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<p align="center">
+  <h1>
+    Olá
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</p>
 <!--
 **schorodinger/schorodinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
