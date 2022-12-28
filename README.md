@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT4uQ7Rkgb6mVyl8RO/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/eliel-alves-45519914b/">
