@@ -49,7 +49,7 @@ Cientista de dados e desenvolvedor Full Stack <img src="https://media.giphy.com/
 ### 🔥 &nbsp; Minhas estatisticas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=schorodinger&locale=pt_BR)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schorodinger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schorodinger&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
